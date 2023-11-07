@@ -1,0 +1,51 @@
+categories:
+
+- name: MiniJob
+  match:
+    - re: "(?i)Christian"
+    - re: "(?i)Arne"
+    - re: "(?i)Michael"
+
+- name: Ausgefallen
+  match:
+    - re: "(?i)Fällt"
+    - re: "(?i)⛔"
+
+- name: Holz
+  match:
+  - re: "(?i)holz"
+  - re: "(?i)Adrian"
+  - re: "(?i)Joe"
+  - re: "(?i)Lennart"
+  - re: "(?i)Erik"
+  - re: "(?i)Jannis"
+  - re: "(?i)Jan"
+  - re: "(?i)Alex"
+  - re: "(?i)Philipp"
+
+- name: Metall
+  match:
+  - re: "(?i)Metall"
+  - re: "(?i)Tobias"
+
+- name: Siebdruck
+  match:
+  - re: "(?i)Siebdruck"
+  - re: "(?i)Carolina"
+  - re: "(?i)Salome"
+
+- name: Fahrrad
+  match:
+    - re: "(?i)Fahrrad"
+    - re: "(?i)Ferhat"
+
+- name: Elektronik / Messer
+  match:
+    - re: "(?i)Nik"
+    - re: "(?i)Lars"
+
+- name: MINT
+  match:
+    - re: "(?i)MINT"
+    - re: "(?i)Elektronikkurs/Nachhilfe"
+
