@@ -130,6 +130,8 @@ corrections: []
 
 ## How to run the program
 
+`go build && ./calendar-stats -decimal-output=true -weeks 159 -source 5usct2veeabp9unuefaojgif88@group.calendar.google.com` is what worked great during 2023 Vorstandssitzung of 35services.
+
 You can build your own binary by running `go build .` in the top directory.
 
 From time to time, binaries may be provided in the GitHub [releases](https://github.com/porridge/calendar-stats/releases).
